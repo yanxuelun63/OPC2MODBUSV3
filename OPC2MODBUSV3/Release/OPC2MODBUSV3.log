@@ -1,0 +1,17 @@
+﻿  config.c
+  logger.c
+  main.c
+  mapping.c
+  mapping2.c
+  modbus_server.c
+  opc_browse.c
+  opc_client.c
+  opc_enum.c
+  servers.c
+  ui.c
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 68 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  OPC2MODBUSV3.vcxproj -> D:\VC\OPC2MODBUSV3\Release\OPC2MODBUSV3.exe
+  D:\VC\OPC2MODBUSV3\Release\OPC2MODBUSV3.exe: message: 正在部署依赖项

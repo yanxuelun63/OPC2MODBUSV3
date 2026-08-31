@@ -1,0 +1,3 @@
+ServerName,OPCItemID,DataType,ModbusAddr,ByteOrder
+LocalOPC,Test/Int32,Long,0,ABCD
+LocalOPC,Test/Float,Float,2,ABCD

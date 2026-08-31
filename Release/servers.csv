@@ -1,0 +1,2 @@
+ServerName,IPAddress,ProgID,UserName,Password,CLSID
+LocalOPC,127.0.0.1,OPC.OpcTestServer_x86.1,,,{F8582CF3-88FB-11DA-A5ED-0060B0692061}

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OPC2MODBUSV3.vcxproj" Id="c5028d1b-3acc-4cb6-812b-52794bed06eb" />
+</Solution>

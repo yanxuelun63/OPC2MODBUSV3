@@ -1,0 +1,2 @@
+ServerName,OPCItemID,ModbusAddr,Factor,ByteOrder
+LocalOPC,Test/Int32,0,0.1,ABCD

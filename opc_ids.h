@@ -1,0 +1,56 @@
+#ifndef RESOURCE_IDS_H 
+#define RESOURCE_IDS_H
+
+#define IDD_CONFIG_DIALOG   101
+#define IDD_MAIN_WINDOW     102
+#define IDD_INPUTBOX        103
+#define IDD_PASSWORD_VERIFY  104
+#define IDD_HELP_DIALOG     105
+
+
+#define IDC_EDIT_PROGID     1001
+#define IDC_EDIT_PORT       1002
+#define IDC_EDIT_SLAVEID    1003
+#define IDC_EDIT_INTERVAL   1004
+#define IDC_EDIT_MAPPING    1005
+#define IDC_BTN_BROWSE      1006
+#define IDC_LIST_DATA       1007
+#define IDC_BTN_SETTINGS    1008
+#define IDC_STATUS_BAR      1009
+#define IDC_BTN_RELOAD      1010
+#define IDC_SERVER_STATUS   1011
+#define IDC_EDIT_SERVERNAME 1012
+#define IDC_EDIT_SERVERIP   1013
+#define IDC_EDIT_USERNAME   1014
+#define IDC_EDIT_PASSWORD   1015
+#define IDC_LIST_REMOTE     1016
+#define IDC_LIST_LOCAL      1017
+#define IDC_BTN_BROWSE_REMOTE 1018
+#define IDC_BTN_ADD         1019
+#define IDC_BTN_DELETE      1020
+#define IDC_BTN_ENCRYPT     1021
+#define IDC_EDIT_INPUT      1022
+#define IDC_BTN_EXPORT      1023
+#define IDC_EDIT_VERIFY_PASS 1024
+#define IDC_BTN_HELP        1025
+#define IDC_HELP_EDIT       1026
+#define IDC_AUTO_START      1027
+#define IDC_EXPORT_STATUS   1030
+
+#define IDC_STATIC_PROGID   2001
+#define IDC_STATIC_PORT     2002
+#define IDC_STATIC_SLAVEID  2003
+#define IDC_STATIC_INTERVAL 2004
+#define IDC_STATIC_MAPPING  2005
+#define IDC_STATIC_PROMPT   2006
+#define IDC_STATIC_USERNAME  2007
+
+#define IDI_MAIN_ICON       201
+#define IDI_TRAY_ICON       202
+
+#define WM_TRAY_ICON        (WM_APP + 100)
+#define WM_UPDATE_TABLE     (WM_APP + 101)
+#define WM_EXPORT_DONE      (WM_APP + 102)
+#define WM_EXPORT_PROGRESS  (WM_APP + 103)
+
+#endif

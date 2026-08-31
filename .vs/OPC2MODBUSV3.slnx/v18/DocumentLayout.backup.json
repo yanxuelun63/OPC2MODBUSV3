@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VC\\OPC2MODBUSV3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\opc_browse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:opc_browse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\opc_client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:opc_client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\modbus_server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:modbus_server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\opc_enum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:opc_enum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\mapping.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:mapping.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\ui.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:ui.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\servers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:servers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\mapping2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:mapping2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\logger.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:logger.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\config.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:config.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\opc_ids.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:opc_ids.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\servers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:servers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\resource.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:resource.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\opc_browse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:opc_browse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\mapping.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:mapping.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\modbus_server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:modbus_server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\mapping2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:mapping2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\opc_client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:opc_client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|D:\\VC\\OPC2MODBUSV3\\opc_enum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|solutionrelative:opc_enum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5028D1B-3ACC-4CB6-812B-52794BED06EB}|OPC2MODBUSV3.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.26100.0\\UM\\WINSOCK2.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "opc_browse.c",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\opc_browse.c",
+              "RelativeDocumentMoniker": "opc_browse.c",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\opc_browse.c",
+              "RelativeToolTip": "opc_browse.c",
+              "ViewState": "AgIAAJMBAAAAAAAAAAAowKUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-15T11:44:07.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mapping.c",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\mapping.c",
+              "RelativeDocumentMoniker": "mapping.c",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\mapping.c",
+              "RelativeToolTip": "mapping.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-19T16:05:36.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "modbus_server.c",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\modbus_server.c",
+              "RelativeDocumentMoniker": "modbus_server.c",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\modbus_server.c",
+              "RelativeToolTip": "modbus_server.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-30T08:50:32.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "opc_client.c",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\opc_client.c",
+              "RelativeDocumentMoniker": "opc_client.c",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\opc_client.c",
+              "RelativeToolTip": "opc_client.c",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAI4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-10T06:13:32.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "opc_enum.c",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\opc_enum.c",
+              "RelativeDocumentMoniker": "opc_enum.c",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\opc_enum.c",
+              "RelativeToolTip": "opc_enum.c",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-15T11:51:34.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "servers.c",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\servers.c",
+              "RelativeDocumentMoniker": "servers.c",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\servers.c",
+              "RelativeToolTip": "servers.c",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-21T08:12:48.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ui.c",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\ui.c",
+              "RelativeDocumentMoniker": "ui.c",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\ui.c",
+              "RelativeToolTip": "ui.c",
+              "ViewState": "AgIAAN8DAAAAAAAAAAAAAN8DAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-19T16:05:57.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswEUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-21T10:43:08.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mapping2.c",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\mapping2.c",
+              "RelativeDocumentMoniker": "mapping2.c",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\mapping2.c",
+              "RelativeToolTip": "mapping2.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-25T09:19:21.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "logger.c",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\logger.c",
+              "RelativeDocumentMoniker": "logger.c",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\logger.c",
+              "RelativeToolTip": "logger.c",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-03T03:48:15.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "config.c",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\config.c",
+              "RelativeDocumentMoniker": "config.c",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\config.c",
+              "RelativeToolTip": "config.c",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowEgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-19T16:04:08.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "opc_ids.h",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\opc_ids.h",
+              "RelativeDocumentMoniker": "opc_ids.h",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\opc_ids.h",
+              "RelativeToolTip": "opc_ids.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-12T10:52:47.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ui.h",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\ui.h",
+              "RelativeDocumentMoniker": "ui.h",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\ui.h",
+              "RelativeToolTip": "ui.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-22T09:41:00.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "resource.h",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\resource.h",
+              "RelativeDocumentMoniker": "resource.h",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\resource.h",
+              "RelativeToolTip": "resource.h",
+              "ViewState": "AgIAAOgEAAAAAAAAAAAYwPEEAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-02T13:54:08.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "resource.rc",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\resource.rc",
+              "RelativeDocumentMoniker": "resource.rc",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\resource.rc",
+              "RelativeToolTip": "resource.rc",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-23T15:11:59.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "servers.h",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\servers.h",
+              "RelativeDocumentMoniker": "servers.h",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\servers.h",
+              "RelativeToolTip": "servers.h",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-14T14:13:30.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "mapping.h",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\mapping.h",
+              "RelativeDocumentMoniker": "mapping.h",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\mapping.h",
+              "RelativeToolTip": "mapping.h",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-20T05:45:33.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "opc_browse.h",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\opc_browse.h",
+              "RelativeDocumentMoniker": "opc_browse.h",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\opc_browse.h",
+              "RelativeToolTip": "opc_browse.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-23T13:57:14.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "config.h",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\config.h",
+              "RelativeDocumentMoniker": "config.h",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\config.h",
+              "RelativeToolTip": "config.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-20T05:45:14.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "mapping2.h",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\mapping2.h",
+              "RelativeDocumentMoniker": "mapping2.h",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\mapping2.h",
+              "RelativeToolTip": "mapping2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-25T09:19:12.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "modbus_server.h",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\modbus_server.h",
+              "RelativeDocumentMoniker": "modbus_server.h",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\modbus_server.h",
+              "RelativeToolTip": "modbus_server.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-21T10:55:56.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "opc_client.h",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\opc_client.h",
+              "RelativeDocumentMoniker": "opc_client.h",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\opc_client.h",
+              "RelativeToolTip": "opc_client.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-20T05:21:55.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "opc_enum.h",
+              "DocumentMoniker": "D:\\VC\\OPC2MODBUSV3\\opc_enum.h",
+              "RelativeDocumentMoniker": "opc_enum.h",
+              "ToolTip": "D:\\VC\\OPC2MODBUSV3\\opc_enum.h",
+              "RelativeToolTip": "opc_enum.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-22T13:02:05.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WinSock2.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\um\\WinSock2.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\um\\WinSock2.h",
+              "ViewState": "AgIAAFcGAAAAAAAAAAAAwGAGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-21T10:46:00.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
