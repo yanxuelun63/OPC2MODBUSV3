@@ -30,10 +30,11 @@
 | ByteOrder     | 多字节/多字排列顺序，仅对 DWord/Long/Float/Double 有效。Word/Int/Bool 可留空或填任意值。<br>支持格式：<br> - ABCD → 大端模式（默认），高字节在低地址<br> - CDAB → 中间交换<br> - BADC → 另一交换<br> - DCBA → 小端模式<br>对于 Double 类型，类似地使用 8 字母组合，如 ABCDEFGH。 |
 
 示例：
+```csv
     ServerName,OPCItemID,DataType,ModbusAddr,ByteOrder
     Kepware,Channel1.Device1.Tag1,Word,0,
     Kepware,Channel1.Device1.FloatTag,Float,2,CDAB
-
+```
 ## 【OPC 服务器配置 (servers.csv) 编制要求】
 
 - 文件格式：CSV，ANSI 编码，第一行为表头。
@@ -48,11 +49,12 @@
 | Password      | 对应密码，支持明文或 ENC: 开头的加密密文。                                                           |
 | CLSID         | 可选，显式指定服务器的 CLSID，优先于 ProgID 使用。                                                   |
 
-示例：
-    ServerName,IPAddress,ProgID,UserName,Password,CLSID
-    LocalKEP,127.0.0.1,KEPware.KEPServerEx.V4,,,
-    RemoteKEP,192.168.1.100,{7BC0CC8E-482C-47CA-ABDC-0FE7F9C6E729},admin,ENC:...
-
+ 示例：
+```csv
+   ServerName,IPAddress,ProgID,UserName,Password,CLSID
+   LocalKEP,127.0.0.1,KEPware.KEPServerEx.V4,,,
+   RemoteKEP,192.168.1.100,{7BC0CC8E-482C-47CA-ABDC-0FE7F9C6E729},admin,ENC:...
+```
 ## 【特殊应用场景：mapping2.csv】
 
 若程序目录下存在 mapping2.csv 文件且包含数据行，程序将自动启用第二从站（从站 ID = 主从站 ID + 1），并对指定的 Word 类型标签进行位解析和浮点转发。
